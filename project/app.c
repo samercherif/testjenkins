@@ -4,7 +4,7 @@
 int main() {
 		int i;
 			for(i=1; i<=10;i++) {
-						print("hello world");
+						printf("hello world");
 								sleep(3);
 									}
 				return 0;
